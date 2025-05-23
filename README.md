@@ -32,11 +32,16 @@ TaskFlow is a modern, intuitive Todo application built with a fullstack architec
 ---
 
 
-## 🖼️ Project Preview
+## 🖼️ Screenshots Preview
 
-| Web App UI (Placeholder) | Mobile View (Placeholder) |
-|--------------------------|----------------------------|
-| ![Desktop UI](./assets/desktop-ui.png) | ![Mobile UI](./assets/mobile-ui.png) |
+| 📌 View                           | 🖼️ Screenshot & UI|
+|----------------------------------|---------------|
+| Overall Dashboard                | ![image](https://github.com/user-attachments/assets/b87e30c3-0b99-48c8-9098-1e2a2c48a8be)  |
+| Todo List                  | ![image](https://github.com/user-attachments/assets/dd4100b8-8ada-47b7-8116-f8d3059e802e)  |
+| Filters                 | ![image](https://github.com/user-attachments/assets/1e18f5a6-d1fb-4232-b48a-5d65eaacbc4b)  |
+| Light Mode & DarkMode       | ![image](https://github.com/user-attachments/assets/f027fad0-98ec-4db1-bfc8-48040cd09afd)   |
+
+
 
 ---
 
@@ -105,5 +110,17 @@ cd ../backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+
+<h2 align="center">Thank You Visiting This REPO💖</h2>
+
+<p align="center">
+  <b>Crafted with care and code by</b><br/>
+  <strong>💻 Manoj Kumar Pendem</strong><br/>
+  <i>Fueled by passion, powered by live data 🔁</i><br/>
+  <br/>
+  🙌 If you found this helpful, give it a ⭐ on GitHub and share it!
+</p>
+
+<hr/>
 
 
