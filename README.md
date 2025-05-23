@@ -7,12 +7,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />  
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-SQLAlchemy-000000?logo=sqlalchemy&logoColor=white&style=for-the-badge" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/-Psycopg2-336791?style=for-the-badge" alt="Psycopg2" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Todo%20List-FCA121?style=for-the-badge" alt="Todo List" />
   <img src="https://img.shields.io/badge/-Dashboard-4A90E2?style=for-the-badge" alt="Dashboard" />
   <img src="https://img.shields.io/badge/-Fullstack-2C3E50?style=for-the-badge" alt="Fullstack" />
@@ -87,8 +88,8 @@ TaskFlow is a modern, intuitive Todo application built with a fullstack architec
 
 | Frontend      | Backend     | Styling     | State Management | Tools        |
 |---------------|-------------|-------------|------------------|--------------|
-| React (Hooks) | FastAPI     | CSS3        | useState/useEffect | REST APIs    |
-| Vite          | Python 3.10 | HTML5       | Custom Hooks     | Uvicorn      |
+| React + Vite | FastAPI     | CSS3        | useState/useEffect | REST APIs    |
+| Recharts (Visulization)          | Python 3.10 | HTML5       | Custom Hooks     | Uvicorn      |
 | Axios         | PostgreSql + Sqlalchemy + Psycopg4     | Bootstrap | React Components | VSCode/Git   |
 
 ---
